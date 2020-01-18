@@ -6,3 +6,5 @@ print ("Goodbye")
 print ("final nail in the coffin")
 
 print ("doing this from the web")
+
+print ("doing this from within vs code")
